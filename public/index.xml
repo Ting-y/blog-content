@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saturday coding blog</title>
+    <link>https://ting-y.github.io/</link>
+    <description>Recent content on Saturday coding blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 00:07:01 -0400</lastBuildDate>
+    
+	<atom:link href="https://ting-y.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://ting-y.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 05 Jul 2020 00:07:01 -0400</pubDate>
+      
+      <guid>https://ting-y.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
