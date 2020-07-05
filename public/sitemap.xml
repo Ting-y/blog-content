@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ting-y.github.io/categories/</loc>
+    <loc>https://ting-y.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-07-05T00:07:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ting-y.github.io/posts/</loc>
+    <lastmod>2020-07-05T00:07:01-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://ting-y.github.io/</loc>
+    <lastmod>2020-07-05T00:07:01-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ting-y.github.io/categories/</loc>
   </url>
   
   <url>
