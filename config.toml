@@ -1,6 +1,32 @@
 baseURL = "https://ting-y.github.io/"
 languageCode = "en-us"
 title = "Saturday coding blog"
-theme = "cactusplus"
+theme = "smol"
 publishDir = "../ting-y.github.io"
+enableInlineShortcodes = true
+enableEmoji = true
 
+[taxonomies]
+   category = "categories"
+[params]
+  author = "Ting Yang"
+  subtitle = "Articles on writing..."
+# Header
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+    [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2 
+
+# Footer
+    [[menu.footer]]
+        name = "ting-y"
+        url = "https://github.com/Ting-y"
+        weight = 1 
